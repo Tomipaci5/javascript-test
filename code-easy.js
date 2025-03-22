@@ -6,13 +6,15 @@ function contains(stringInput, stringToFind) {}
 // 2) Funkce co vrací délku pole poskytnutého v arrayInput
 function size(arrayInput) {}
 
-// 3) Funkce co vrací opak poskytnutého booleanu hodnoty v booleanInput
+// 3) Funkce co vrací opak poskytnutého boolean hodnoty v booleanInput
 function negate(booleanInput) {}
 
-// 4) Funkce co spojí dva string (bez žádného přidaného znaku) a vrátí je jako jeden string
+// 4) Funkce co spojí (bez žádného přidaného znaku) dva textové řetězce string1 a string2 a vrátí je jako jeden string
+// například pro "Hello", "World" bude výsledek "HelloWorld"
 function join(string1, string2) {}
 
-// 5) Funkce vrací hodnotu z pole arrayInput na indexu indexInput
+// 5) Funkce co vrací hodnotu z pole arrayInput na indexu indexInput (od 0)
+// například pro ["apple", "banana", "kiwi", "orange", "strawberry"], 2 bude výsledek "kiwi"
 function get(arrayInput, indexInput) {}
 
 // oblast volání funkcí
