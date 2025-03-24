@@ -10,11 +10,11 @@ V souboru `teorie.md` se očekává odpověď na každou otázku (doplnit pod ot
 
 ### Programování
 
-V souboru `code-easy.js`, `code-medium.js`, `code-hard.js` je zadání pro programovací část testu. Jednotlivé funkce mají vlastní zadání a vaším úkolem je, je doplnit tělo funkcí aby dělalili co se dle zadání od nich očekává. Úprava existujících parametrů funkcí je u některých úkolů očekávána, přidávání parametrů samotných ne.
+V souborech `code-easy.js`, `code-medium.js` a `code-hard.js` bude probíhat programovací část testu. Každý soubor obsahuje jednotlivé funkce a ke každé je vlastní zadání. Vaším úkolem je doplnit tělo funkcí aby dělalili co se dle zadání od nich očekává. Úprava existujících parametrů funkcí je u některých úkolů očekávána, přidávání parametrů samotných nikoliv.
 
 Každý soubor je spoustitelný a do konzole vypisuje výsledky volání jednotlivých funkcí (ty stejné výsledky které se ověřují na správnost).
 
-Každý soubor je rozdělen na sekce vždy začínají komentářem. První sekce, označená `// oblast definice funkcí` slouží k definici funkcí a je zde zadání (u některých i příklad očekávaného výsledku). Tohle je sekce, v níž budete primárně pracovat. V sekci označené `// oblast volání funkcí` dochází k volání definovaných funkcí, zde si můžete volat funkce s jinými hodnotami, jakékoliv změny v této sekci neovlivní výsledek. Poslední sekci označenou `// do kódu níže nezasahujte` je zakázáno modifikovat.
+Každý soubor je rozdělen na sekce vždy začínají komentářem. První sekce, označená `// oblast definice funkcí` slouží k definici funkcí a nachází se v ní zadání (u některých i příklad očekávaného výsledku). V této sekci budete primárně pracovat. V sekci označené `// oblast volání funkcí` dochází k volání definovaných funkcí, zde si můžete volat funkce s jinými hodnotami, jakékoliv změny v této sekci neovlivní výsledek. Poslední sekci označenou `// do kódu níže nezasahujte` je zakázáno modifikovat.
 
 ## Podmínky
 
