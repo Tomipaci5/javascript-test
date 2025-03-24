@@ -32,6 +32,7 @@ console.log(result3);
 // do kódu níže nezasahujte
 
 module.exports = {
+  variant: "1A",
   capitalizeWord,
   transformScoreToGrade,
   factorial,
